@@ -19,7 +19,7 @@ import base64
 import shutil
 
 #Your SNI Proxy Server IP here!
-sni = '127.0.0.1'
+sni = '10.147.18.251'
 
 
 
